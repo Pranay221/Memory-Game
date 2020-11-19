@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name": "Sushant Singh Rajput",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ3g4c93RLZuRFoLsvDK30FFYWWK4drUX_TA&usqp=CAU",
+        "occupation": "Actor"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Shah Rukh Khan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg",
+        "occupation": "Actor"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Disha Patani",
+        "image": "https://i.pinimg.com/736x/2a/43/5f/2a435fd627e8c3a59ee168a0b5c564f2.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Kiara Advani",
+        "image": "https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/02/Kiara-Advani-Photo.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Varun Dhawan",
+        "image": "https://i.pinimg.com/originals/87/53/60/87536065a7bae260ff855ff773de2df0.jpg",
+        "occupation": "Actor, Model"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Shradhha Kapoor",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Shraddha_Kapoor_promoting_Street_Dancer_3D.jpg",
+        "occupation": "Actress"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "Alia Bhatt",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Alia_Bhatt_promoting_Kalank.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 8,
+        "clicked" : false,
+        "name": "Sidharth Malhotra",
+        "image": "https://pbs.twimg.com/media/ElB0T5_UUAA8Lhy.jpg",
+        "occupation": "Model, Actor"
+      },
+      {
+        "id": 9,
+        "clicked" : false,
+        "name": "Nora Fatehi",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzk3N2NmZjAtNzEzNi00NWUyLWEyYzUtNmUyYmJmOGE2ZDY5XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+        "occupation": "Dancer, Model"
+      },
+      {
+        "id": 10,
+        "clicked" : false,
+        "name": "Ranveer Singh",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ranveer_Singh_promoting_Bajirao_Mastani.jpg",
+        "occupation": "Actor"
+      },
+      {
+        "id": 11,
+        "clicked" : false,
+        "name": "Deepika Padukone",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deepika_Padukone_promoting_Bajirao_Mastani_%28cropped%29.jpg/170px-Deepika_Padukone_promoting_Bajirao_Mastani_%28cropped%29.jpg",
+        "occupation": "Actress, Model"
+      },
+      {
+        "id": 12,
+        "clicked" : false,
+        "name": "Ranbir Kapoor",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ranbir_Kapoor_promoting_Barfi%21_at_Cafe_Coffee_Day.jpg",
+        "occupation": "Actor"
+      }
+      
+]
